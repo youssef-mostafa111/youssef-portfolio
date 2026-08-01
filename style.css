@@ -17,16 +17,15 @@
 
 :root{
 
-    --bg:#08111f;
-    --card:#101b2d;
-    --primary:#3b82f6;
-    --secondary:#38bdf8;
+    --bg:#020617;
+    --card:#0b1220;
+    --primary:#2563eb;
+    --secondary:#06b6d4;
     --white:#ffffff;
-    --gray:#b6c2d2;
-    --border:rgba(255,255,255,.08);
+    --gray:#94a3b8;
+    --border:rgba(255,255,255,.06);
 
 }
-
 body{
 
     font-family:'Poppins',sans-serif;
